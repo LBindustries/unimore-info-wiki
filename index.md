@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Benvenuto all'archivio di informazioni di Unimore Informatica!
+
+Usa i tasti in alto per navigare tra le varie pagine.
