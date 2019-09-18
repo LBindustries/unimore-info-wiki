@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Unimore Informatica
+title: uni.steffo.eu
 email: ste.pigozzi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Un sito in cui mettere cose utili per gli studenti Unimore. Potete modificarlo su GitHub!
+  Un sito in cui mettere cose utili per gli studenti Unimore.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://uni.steffo.eu/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Steffo99
