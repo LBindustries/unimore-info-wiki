@@ -10,6 +10,7 @@ Questo è un elenco di tutti gli appunti presi da studenti Unimore che sono disp
 
 - [Steffo99/appunti-universitari](https://github.com/Steffo99/appunti-universitari)
 - [vezzalinistefano/Appunti-Algoritmi](https://github.com/vezzalinistefano/Appunti-Algoritmi)
+- [Erre2](http://erre2.fermitech.info/dashboard)
 
 Se li trovate utili, vi chiedo di aggiungere anche i vostri appunti a questo elenco, in modo da averne più possibile!
 
